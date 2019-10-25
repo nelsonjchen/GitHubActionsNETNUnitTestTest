@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubActionsNETNUnitTestTest", "GitHubActionsNETNUnitTestTest.csproj", "{B463215A-7F33-409F-ADDB-EB0E7CE61B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B463215A-7F33-409F-ADDB-EB0E7CE61B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B463215A-7F33-409F-ADDB-EB0E7CE61B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B463215A-7F33-409F-ADDB-EB0E7CE61B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B463215A-7F33-409F-ADDB-EB0E7CE61B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
